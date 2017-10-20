@@ -70,13 +70,13 @@ git push origin <branch name>
 
 a. Go to the repository webpage.
 
-b.![Pull Request 1](https://raw.githubusercontent.com/IlliniSolarCar/git-cheatsheet/images/pr4.PNG)
+b.![Pull Request 1](https://raw.githubusercontent.com/IlliniSolarCar/git-cheatsheet/images/pr1.PNG)
 
-c.![Pull Request 2](https://raw.githubusercontent.com/IlliniSolarCar/git-cheatsheet/images/pr3.PNG)
+c.![Pull Request 2](https://raw.githubusercontent.com/IlliniSolarCar/git-cheatsheet/images/pr2.PNG)
 
-d.![Pull Request 3](https://raw.githubusercontent.com/IlliniSolarCar/git-cheatsheet/images/pr2.PNG)
+d.![Pull Request 3](https://raw.githubusercontent.com/IlliniSolarCar/git-cheatsheet/images/pr3.PNG)
 
-e.![Pull Request 4](https://raw.githubusercontent.com/IlliniSolarCar/git-cheatsheet/images/pr1.PNG)
+e.![Pull Request 4](https://raw.githubusercontent.com/IlliniSolarCar/git-cheatsheet/images/pr4.PNG)
 
 ## Merge Conflicts (AHHH!!!!)
 
