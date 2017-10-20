@@ -41,6 +41,7 @@ This is the command which pulls down changes that were pushed to the server, and
 ## The Common Workflow
 1. 
 a. ![Clone Image](https://raw.githubusercontent.com/IlliniSolarCar/git-cheatsheet/images/clone.PNG)
+
 b.
 ```bash 
 git clone <repository url>
@@ -64,12 +65,18 @@ git commit -m "<A relevant commit message>"
 git push origin <branch name>
 ```
 7. Repeat steps 3 through 6 until you're finished with the new feature.
+
 8. Submit a pull request.
+
 a. Go to the repository webpage.
-b.![Pull Request 1](https://raw.githubusercontent.com/IlliniSolarCar/git-cheatsheet/images/pr1.PNG)
-c.![Pull Request 2](https://raw.githubusercontent.com/IlliniSolarCar/git-cheatsheet/images/pr2.PNG)
-b.![Pull Request 3](https://raw.githubusercontent.com/IlliniSolarCar/git-cheatsheet/images/pr3.PNG)
-c.![Pull Request 4](https://raw.githubusercontent.com/IlliniSolarCar/git-cheatsheet/images/pr4.PNG)
+
+b.![Pull Request 1](https://raw.githubusercontent.com/IlliniSolarCar/git-cheatsheet/images/pr4.PNG)
+
+c.![Pull Request 2](https://raw.githubusercontent.com/IlliniSolarCar/git-cheatsheet/images/pr3.PNG)
+
+d.![Pull Request 3](https://raw.githubusercontent.com/IlliniSolarCar/git-cheatsheet/images/pr2.PNG)
+
+e.![Pull Request 4](https://raw.githubusercontent.com/IlliniSolarCar/git-cheatsheet/images/pr1.PNG)
 
 ## Merge Conflicts (AHHH!!!!)
 
