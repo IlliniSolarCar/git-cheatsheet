@@ -39,9 +39,42 @@ git pull origin <branch name>
 This is the command which pulls down changes that were pushed to the server, and puts the changes into our local directory.
 
 ## The Common Workflow
+1. 
+a. ![Clone Image](https://octodex.github.com/images/yaktocat.png)
+b.
+```bash 
+git clone <repository url>
+```
+2. 
+```bash 
+git checkout -b <new branch name>
+```
+3.
+Make some changes to some files
+4.
+```bash
+git add <for each file that you modified>
+```
+5.
+```bash
+git commit -m "<A relevant commit message>"
+```
+6.
+```bash
+git push origin <branch name>
+```
+7. Repeat steps 3 through 6 until you're finished with the new feature.
+8. Submit a pull request.
+a. Go to the repository webpage.
+b.![Pull Request 1](https://octodex.github.com/images/yaktocat.png)
+c.![Pull Request 2](https://octodex.github.com/images/yaktocat.png)
+b.![Pull Request 3](https://octodex.github.com/images/yaktocat.png)
+c.![Pull Request 4](https://octodex.github.com/images/yaktocat.png)
 
 ## Merge Conflicts (AHHH!!!!)
 
+https://stackoverflow.com/questions/161813/how-to-resolve-merge-conflicts-in-git
+To be honest, if there's a merge conflict, you should ping someone on Slack (ex. @aidan.san)
 
 ## Miscellaneous (Less Frequently Used) Commands
 
