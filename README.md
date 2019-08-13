@@ -109,8 +109,11 @@ __the code from the branch you are merging code from__
 You'll want to figure out what code from there you want. It may be only that from one branch or a combination of it. You can resolve the conflict in the file so it looks as you intend (don't forget to delete all fo the conflict artifacts such as the "======="). Alternatively, depending on what you want you may be able do it from the git cli. 
 
 The variety of causes of merge conflicts makes it impossible to write a guide for all of them here. Once you figure out what you want the internet can help you figure out how to get there. Here are some external resources:
+
 https://www.atlassian.com/git/tutorials/using-branches/merge-conflicts
+
 https://www.git-tower.com/learn/git/ebook/en/command-line/advanced-topics/merge-conflicts
+
 https://git-scm.com/docs/git-merge
 
 Until you are very comfortable with git (meaning you aren't reading this cheatsheet) you should probably ask a more experienced member with help for all but the basic conflicts. 
