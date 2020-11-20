@@ -46,12 +46,9 @@ This is the command which pulls down changes that were pushed to the server, and
 
 ## The Common Workflow
 1. 
-a. ![Clone Image](https://raw.githubusercontent.com/IlliniSolarCar/git-cheatsheet/images/clone.PNG)
+     1. ![Clone Image](https://raw.githubusercontent.com/IlliniSolarCar/git-cheatsheet/images/clone.PNG)
 
-b.
-```bash 
-git clone <repository url>
-```
+     2.   `git clone <repository url>`
 2. 
 ```bash 
 git checkout -b <new branch name>
@@ -74,15 +71,15 @@ git push origin <branch name>
 
 8. Submit a pull request.
 
-a. Go to the repository webpage.
+     1. Go to the repository webpage.
 
-b.![Pull Request 1](https://raw.githubusercontent.com/IlliniSolarCar/git-cheatsheet/images/pr1.PNG)
+     2. ![Pull Request 1](https://raw.githubusercontent.com/IlliniSolarCar/git-cheatsheet/images/pr1.PNG)
 
-c.![Pull Request 2](https://raw.githubusercontent.com/IlliniSolarCar/git-cheatsheet/images/pr2.PNG)
+     3. ![Pull Request 2](https://raw.githubusercontent.com/IlliniSolarCar/git-cheatsheet/images/pr2.PNG)
 
-d.![Pull Request 3](https://raw.githubusercontent.com/IlliniSolarCar/git-cheatsheet/images/pr3.PNG)
+     4. ![Pull Request 3](https://raw.githubusercontent.com/IlliniSolarCar/git-cheatsheet/images/pr3.PNG)
 
-e.![Pull Request 4](https://raw.githubusercontent.com/IlliniSolarCar/git-cheatsheet/images/pr4.PNG)
+     5. ![Pull Request 4](https://raw.githubusercontent.com/IlliniSolarCar/git-cheatsheet/images/pr4.PNG)
 
 ## Merges
 Merging is when you combine two commit histories back into one. There are a couple of different reasons a merge may be neccessary. 
