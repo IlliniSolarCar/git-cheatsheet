@@ -132,4 +132,4 @@ This command let's us save the current repository state without making a commit.
 **When to use this:** We have some changes we want to save, but they are not enouhgh to make a full commit.
 
 ## Help
-For help with git for hardware post on <i>#elec-cad</i>. For help with git for firmware post to <i>#elec-code</i>
+For help with git, post on slack. Either <i>#elec-cad</i>, <i>#elec-code</i>, or <i>#telemetry-code</i>
